@@ -1,0 +1,34 @@
+# Archivos de la carpeta de publicación
+publish/
+
+# Archivos binarios compilados
+bin/
+obj/
+
+# Archivos de paquetes NuGet restaurados
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Configuraciones locales del usuario
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos de lock y caché
+project.lock.json
+project.fragment.lock.json
+project.nuget.cache
+# Caché de NuGet
+.nuget/packages/
+# Configuraciones de NuGet
+NuGet.config
+
+# Archivos de VSCode
+.vscode/
+
+# Logs y temporales
+*.log
+*.vs/
